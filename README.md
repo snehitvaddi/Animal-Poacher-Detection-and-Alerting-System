@@ -13,7 +13,7 @@ Some of the readily labelled datasets are available here @[Google's Open Image D
 Input Samples
   |  1.jpg | 2.jpg  |  3.jpg  | pic1.jpg  | pic2.jpg  |
   |------------|-------------|-------------|-------------|-------------|
-  | <img src="https://github.com/snehitvaddi/Poacher-Detection/tree/master/test_images/1.jpg" width="300"> | <img src="https://github.com/snehitvaddi/Poacher-Detection/tree/master/test_images/pic1.jpg" width="300">| <img src="https://github.com/snehitvaddi/Poacher-Detection/tree/master/test_images/2.jpg" width="300"> | <img src="https://github.com/snehitvaddi/Poacher-Detection/tree/master/test_images/pic2.jpg" width="300"> | <img src="https://github.com/snehitvaddi/Poacher-Detection/tree/master/test_images/3.jpg" width="300"> |
+  | <img src="https://github.com/snehitvaddi/Poacher-Detection/blob/master/test_images/1.jpg"> | <img src=https://github.com/snehitvaddi/Poacher-Detection/blob/master/test_images/pic1.jpg">| <img src="https://github.com/snehitvaddi/Poacher-Detection/tree/master/test_images/2.jpg"> | <img src="https://github.com/snehitvaddi/Poacher-Detection/tree/master/test_images/pic2.jpg"> | <img src="https://github.com/snehitvaddi/Poacher-Detection/blob/master/test_images/3.jpg"> |
 
 ## 📈 Training Performance Chart
 Here is the chart to describe how my performed during entire training process. It shows average loss vs. iterations. For a model to be 'accurate' you would aim for a loss under 2.<br>
