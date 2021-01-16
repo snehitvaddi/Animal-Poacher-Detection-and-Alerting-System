@@ -10,10 +10,10 @@ Some of the readily labelled datasets are available here @[Google's Open Image D
 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1O1tlwjbt4dUWBct2Jv0vHXPNe_fcMCa_/view?usp=sharing) | [Dataset with Labels](https://drive.google.com/file/d/1O1tlwjbt4dUWBct2Jv0vHXPNe_fcMCa_/view?usp=sharing) | [Download Model](https://drive.google.com/file/d/1-0mACyQvwGSpaxXS57Z1L6wdHutpuFRE/view?usp=sharing) | [Label Img ](https://github.com/tzutalin/labelImg)  |
 
 ### 🧬 Sample outputs from Custom YOLOv3 model
-Input Samples
-  |  1.jpg | 2.jpg  |  3.jpg  | pic1.jpg  | pic2.jpg  |
-  |------------|-------------|-------------|-------------|-------------|
-  | <img src="https://github.com/snehitvaddi/Poacher-Detection/blob/master/test_images/1.jpg"> | <img src=https://github.com/snehitvaddi/Poacher-Detection/blob/master/test_images/pic1.jpg">| <img src="https://github.com/snehitvaddi/Poacher-Detection/tree/master/test_images/2.jpg"> | <img src="https://github.com/snehitvaddi/Poacher-Detection/tree/master/test_images/pic2.jpg"> | <img src="https://github.com/snehitvaddi/Poacher-Detection/blob/master/test_images/3.jpg"> |
+
+|  1.jpg | 2.jpg  |  3.jpg  |
+|------------|-------------|-------------|
+| <img src="https://github.com/snehitvaddi/Poacher-Detection/blob/master/test_images/1.jpg"  width="300"> | <img src="https://github.com/snehitvaddi/Poacher-Detection/blob/master/test_images/2.jpg"  width="300">| <img src="https://github.com/snehitvaddi/Poacher-Detection/tree/master/test_images/pic2.jpg"  width="300"> 
 
 ## 📈 Training Performance Chart
 Here is the chart to describe how my performed during entire training process. It shows average loss vs. iterations. For a model to be 'accurate' you would aim for a loss under 2.<br>
