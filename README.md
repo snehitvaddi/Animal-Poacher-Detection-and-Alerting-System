@@ -9,11 +9,16 @@ Some of the readily labelled datasets are available here @[Google's Open Image D
 |------------|-------------|-----------|-----------|
 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1O1tlwjbt4dUWBct2Jv0vHXPNe_fcMCa_/view?usp=sharing) | [Dataset with Labels](https://drive.google.com/file/d/1O1tlwjbt4dUWBct2Jv0vHXPNe_fcMCa_/view?usp=sharing) | [Download Model](https://drive.google.com/file/d/1-0mACyQvwGSpaxXS57Z1L6wdHutpuFRE/view?usp=sharing) | [Label Img ](https://github.com/tzutalin/labelImg)  |
 
-### 🧬 Sample outputs from Custom YOLOv3 model
+#### 💡 Sample Inputs 
 
-|  1.jpg | 2.jpg  | 
-|------------|-------------|
-| <img src="https://github.com/snehitvaddi/Poacher-Detection/blob/master/test_images/1.jpg"  width="250" height="250"> | <img src="https://github.com/snehitvaddi/Poacher-Detection/blob/master/test_images/2.jpg"  width="250" height="250">| 
+|  1.jpg | 2.jpg  | pic1.jpg | pic2.jpg |
+|------------|-------------|-----------|---------|
+| <img src="https://github.com/snehitvaddi/Poacher-Detection/blob/master/test_images/1.jpg"  width="250" height="250"> | <img src="https://github.com/snehitvaddi/Poacher-Detection/blob/master/test_images/2.jpg"  width="250" height="250">|<img src="https://github.com/snehitvaddi/Poacher-Detection/blob/master/test_images/pic1.jpg"  width="250" height="250">|<img src="https://github.com/snehitvaddi/Poacher-Detection/blob/master/test_images/pic2.jpg"  width="250" height="250">|
+
+#### 🧠 Sample Outputs
+|  1.jpg | 2.jpg  | pic1.jpg | pic2.jpg |
+|------------|-------------|-----------|---------|
+| <img src="https://github.com/snehitvaddi/Poacher-Detection/blob/master/outputs/4.png"  width="250" height="250"> | <img src="https://github.com/snehitvaddi/Poacher-Detection/blob/master/outputs/5.png"  width="250" height="250">|<img src="https://github.com/snehitvaddi/Poacher-Detection/blob/master/outputs/6.png"  width="250" height="250">|<img src="https://github.com/snehitvaddi/Poacher-Detection/blob/master/outputs/7.png"  width="250" height="250">|
 
 ****************************************************************************************************************************************
 ### 📂 Files Required :
