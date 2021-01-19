@@ -5,9 +5,9 @@ The Dataset is collected from google images using [Download All Images](https://
 
 Some of the readily labelled datasets are available here @[Google's Open Image Dataset v5](https://storage.googleapis.com/openimages/web/index.html).
 
-|  🧾 Colab Notebook  |   📂 Dataset with Labels   | 🔑 Trained Model |  ✍ LabelImg |
+|  🧾 Colab Notebook  |   🗃 Dataset with Annotations   | 🔑 Trained YOLOv3 Model | 🧠 Complete Folder  |
 |------------|-------------|-----------|-----------|
-| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1O1tlwjbt4dUWBct2Jv0vHXPNe_fcMCa_/view?usp=sharing) | [Dataset with Labels](https://drive.google.com/file/d/1O1tlwjbt4dUWBct2Jv0vHXPNe_fcMCa_/view?usp=sharing) | [Download Model](https://drive.google.com/file/d/1-0mACyQvwGSpaxXS57Z1L6wdHutpuFRE/view?usp=sharing) | [Label Img ](https://github.com/tzutalin/labelImg)  |
+| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1O1tlwjbt4dUWBct2Jv0vHXPNe_fcMCa_/view?usp=sharing) | [Images & Annotations](https://drive.google.com/file/d/1i7odPzL8kWigesajYkMM0XopQhh1g86J/view?usp=sharing) | [Download Model](https://drive.google.com/file/d/1_20xIEqXsnoQBakMGD3llYAm1D0Dmi0A/view?usp=sharing) | [Project Folder](https://drive.google.com/drive/folders/17S0nm_11wjBmDVhYezXs_K17wsZkuKsx?usp=sharing)  |
 
 #### 💡 Sample Inputs 
 
