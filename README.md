@@ -35,7 +35,7 @@ You can download the yolov3 pretrained weights by clicking [here](https://pjredd
 ****************************************************************************************************************************************
 
 ### ⚡ Colab Hack: ⭐
-If you are a student like me, and unable to pay such amount, here is a jugad for you. 😉<br>
+If you are a student like me, and unable to pay such amount for premium Google Colab features like uninterupted GPU usage, here is a jugad(hack) for you😉<br>
 
 👉Step 1: In colab notebook, type CTRL + SHIFT + I (Inspect element)<br>
 👉Step 2: Go to the console tab and paste the code given in the image below.<br>
