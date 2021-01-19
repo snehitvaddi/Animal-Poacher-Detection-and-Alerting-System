@@ -1,9 +1,9 @@
 ## Poacher Detection in Real-time using Deep Learning
 A Project on Poacher detection in wild using YOLOv3 model. This repo consists of code used for training and detecting Fire using custom YoloV3 model.<br>
 
-The Dataset is collected from google images using [Download All Images](https://chrome.google.com/webstore/detail/download-all-images/ifipmflagepipjokmbdecpmjbibjnakm) chrome extension. I labelled dataset using [Label Img](https://github.com/tzutalin/labelImg).<br>
+The Dataset is collected from google images using [Download All Images](https://chrome.google.com/webstore/detail/download-all-images/ifipmflagepipjokmbdecpmjbibjnakm) chrome extension and labelling is done using [Label Img](https://github.com/tzutalin/labelImg) tool.<br>
 
-Some of the readily labelled datasets are available here @[Google's Open Image Dataset v5](https://storage.googleapis.com/openimages/web/index.html).
+Some of the readily labelled datasets are available here @[Google's Open Image Dataset v5](https://storage.googleapis.com/openimages/web/index.html). You label dataset either using LabelImg or Online CVAT tool.
 
 |  🧾 Colab Notebook  |   🗃 Dataset with Annotations   | 🔑 Trained YOLOv3 Model | 🧠 Complete Folder  |
 |------------|-------------|-----------|-----------|
