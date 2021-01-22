@@ -13,7 +13,7 @@ Some of the readily labelled datasets are available here @[Google's Open Image D
 
 |  1.jpg | 2.jpg  | pic1.jpg | pic2.jpg |
 |------------|-------------|-----------|---------|
-| <img src="https://github.com/snehitvaddi/Poacher-Detection/blob/master/test_images/1.jpg"  width="250" height="250"> | <img src="https://github.com/snehitvaddi/Poacher-Detection/blob/master/test_images/2.jpg"  width="250" height="250">|<img src="https://github.com/snehitvaddi/Poacher-Detection/blob/master/test_images/pic1.jpg"  width="250" height="250">|<img src="https://github.com/snehitvaddi/Poacher-Detection/blob/master/test_images/pic2.jpg"  width="250" height="250">|
+| <img src="https://github.com/snehitvaddi/Poacher-Detection/blob/master/test_images/1.jpg"  width="250" height="200"> | <img src="https://github.com/snehitvaddi/Poacher-Detection/blob/master/test_images/2.jpg"  width="250" height="200">|<img src="https://github.com/snehitvaddi/Poacher-Detection/blob/master/test_images/pic1.jpg"  width="250" height="200">|<img src="https://github.com/snehitvaddi/Poacher-Detection/blob/master/test_images/pic2.jpg"  width="250" height="200">|
 
 #### 🧠 Sample Outputs
 |  1.jpg | 2.jpg  | pic1.jpg | pic2.jpg |
