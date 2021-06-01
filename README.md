@@ -1,5 +1,5 @@
 ## Wildlife Poacher Detection and Alerting system in Real-time using Deep Learning
-A Project on Poacher detection in wild using YOLOv3 model. This repo consists of code used for training and detecting Poachers in wild using custom YoloV3 model through webcam/external device.<br>
+This repo consists of code used for training and detecting Poachers in wild using custom YoloV3 model through webcam/external device.<br>
 
 The Dataset is collected from google images using [Download All Images](https://chrome.google.com/webstore/detail/download-all-images/ifipmflagepipjokmbdecpmjbibjnakm) chrome extension and labelling is done using [Label Img](https://github.com/tzutalin/labelImg) tool.<br>
 
