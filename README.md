@@ -5,7 +5,7 @@ The Dataset is collected from google images using [Download All Images](https://
 
 Some of the readily labelled datasets are available here @[Google's Open Image Dataset v5](https://storage.googleapis.com/openimages/web/index.html). You label dataset either using LabelImg or Online CVAT tool.
 
-**I made `poacher-Implementation.ipynb` file private to avoid misuse, contact me @v.snehith999@gmail.com for complete directory ☺**
+**I have made `poacher-Implementation.ipynb` file private to avoid misuse, contact me @v.snehith999@gmail.com for complete directory ☺**
 
 |  🧾 Colab Notebook  |   🗃 Dataset with Annotations   | 🔑 Trained YOLOv3 Model | 🧠 Complete Folder  |
 |------------|-------------|-----------|-----------|
