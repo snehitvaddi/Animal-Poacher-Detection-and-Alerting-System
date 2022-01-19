@@ -10,7 +10,7 @@ This repo consists of code used for training and detecting Poachers in wild usin
 
 |  🧾 Colab Notebook  |   🗃 Dataset with Annotations   | 🔑 Trained YOLOv3 Model | 🧠 Complete Folder  |
 |------------|-------------|-----------|-----------|
-| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1O1tlwjbt4dUWBct2Jv0vHXPNe_fcMCa_/view?usp=sharing) | [Images & Annotations](https://drive.google.com/file/d/1i7odPzL8kWigesajYkMM0XopQhh1g86J/view?usp=sharing) | [Download Model](https://drive.google.com/file/d/1_20xIEqXsnoQBakMGD3llYAm1D0Dmi0A/view?usp=sharing) | [Project Folder](https://drive.google.com/drive/folders/17S0nm_11wjBmDVhYezXs_K17wsZkuKsx?usp=sharing)  |
+| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/snehitvaddi/Animal-Poacher-Detection-and-Alerting-System/blob/master/YOLOv3-Training-notebook.ipynb) | [Images & Annotations](https://drive.google.com/file/d/1i7odPzL8kWigesajYkMM0XopQhh1g86J/view?usp=sharing) | [Download Model](https://drive.google.com/file/d/1_20xIEqXsnoQBakMGD3llYAm1D0Dmi0A/view?usp=sharing) | [Project Folder](https://drive.google.com/drive/folders/17S0nm_11wjBmDVhYezXs_K17wsZkuKsx?usp=sharing)  |
 
 #### 💡 Sample Inputs 
 
